@@ -163,4 +163,4 @@ This is a personal creative project rather than a generic SaaS template.
 
 ## License
 
-This project is shared as a personal creative work. Please do not reuse private images, text, music, videos, or personal data without permission.
+This project is shared as a personal creative work. Please do not reuse private images, text, music, videos, or personal data without permission. 
